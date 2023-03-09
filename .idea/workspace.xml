@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="misc" />
+    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="misc">
+      <change afterPath="$PROJECT_DIR$/.idea/remote-targets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cliTools/Banner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Banner.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/nvuser/IdeaProjects/Kotlin-Fundamentals-Santander-2021",
+    "last_opened_file_path": "//wsl$/Ubuntu-22.04/data/bedu/bedu6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,10 +50,22 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="bedu06" />
+      <target name="WSL - Ubuntu-22.04" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +76,7 @@
       <updated>1678078138553</updated>
       <workItem from="1678078139717" duration="6292000" />
       <workItem from="1678149838154" duration="9589000" />
+      <workItem from="1678326923144" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="misc">
       <created>1678326608287</created>
@@ -77,5 +94,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="misc" />
     <option name="LAST_COMMIT_MESSAGE" value="misc" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

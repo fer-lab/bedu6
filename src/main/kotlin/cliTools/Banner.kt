@@ -17,13 +17,26 @@ class Banner {
 
     private fun displayTitle(content: String)
     {
+        var contentFixed = content.trim();
         boxTop()
         boxLeft(content.length);
 
         // todo margins
-        print(content);
-        boxRight(content.length);
+
+        if (content.length >= maxWidth + 2)
+        {
+            contentFixed = wordWrap(content);
+        }
+
+
+        print(contentFixed);
+        boxRight(contentFixed.length);
         boxBottom()
+    }
+
+    private fun wordWrap(text: String): String
+    {
+        return text;
     }
 
     private fun displayBody(content: String)
@@ -43,6 +56,16 @@ class Banner {
 
     private fun boxRight(length: Int)
     {
+        val limit = maxWidth - 4;
+
+        println("xxxxxxxxle ${length}, li ${limit}")
+
+        if (length < limit)
+        {
+            println("aaaa")
+            print(" ".repeat(limit - length))
+        }
+
         print(" |\n")
     }
 
