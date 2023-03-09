@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DBEntities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DBEntity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Movie.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Movies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Users.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Banner.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Option.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Options.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/OptionsKeyTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="misc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +59,23 @@
       <option name="presentableId" value="Default" />
       <updated>1678078138553</updated>
       <workItem from="1678078139717" duration="6292000" />
-      <workItem from="1678149838154" duration="9281000" />
+      <workItem from="1678149838154" duration="9589000" />
     </task>
+    <task id="LOCAL-00001" summary="misc">
+      <created>1678326608287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678326608287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="misc" />
+    <option name="LAST_COMMIT_MESSAGE" value="misc" />
   </component>
 </project>
