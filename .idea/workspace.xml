@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="" />
+    <list default="true" id="1b907583-665f-499f-91f4-377caf196f24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DBEntities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DBEntity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Movie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Movies.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Users.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Banner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Option.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/Options.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cliTools/OptionsKeyTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2McsJpAqJrssqsgaTp9p4JF9eLD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,8 +47,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/nvuser/IdeaProjects/Kotlin-Fundamentals-Santander-2021",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -30,7 +71,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678078138553</updated>
+      <workItem from="1678078139717" duration="6292000" />
+      <workItem from="1678149838154" duration="9281000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
